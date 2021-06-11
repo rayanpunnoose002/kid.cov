@@ -1,0 +1,13 @@
+.form{
+    margin-left: 500px;
+}
+.img {
+    margin-left:650px ;
+    border-radius: 50%;
+  }
+  .grad {
+    background-image: linear-gradient(to right, rgba(247, 255, 254, 0), rgb(124, 71, 22));
+  }
+  .gradh{
+    background-image: linear-gradient(to right, rgba(247, 255, 254, 0),rgb(124, 71, 22));
+  }
